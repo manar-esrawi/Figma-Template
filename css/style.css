@@ -187,10 +187,10 @@ header .header-content {
 
 }
 
-.sign-in-items {
+/* .sign-in-items {
     display: flex;
     flex-flow: column;
-}
+} */
 
 .sign-in-content .sign-in-items .sign-in-title {
     font-size: 48px;

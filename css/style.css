@@ -22,6 +22,7 @@ a {
 .container {
     width: 80%;
     margin: auto;
+    padding: 20px 0;
 }
 
 .section-header {
@@ -197,7 +198,7 @@ header .header-content {
     color: var(--mainColor);
     text-align: left;
     margin: 15px 0;
-    padding-right: 200px;
+    padding-right: 100حء;
 }
 
 .sign-in-content .sign-in-items .sign-in-desc {
@@ -205,7 +206,7 @@ header .header-content {
     color: #050038B8;
     text-align: left;
     margin: 10px 0;
-    padding-right: 200px;
+    padding-right: 100حء;
 
 }
 
@@ -848,13 +849,14 @@ header .header-content {
 .person-caption {
     display: flex;
     justify-content: start;
-    align-items: center;
-    gap: 20px;
+    align-items: start;
+    gap: 10px;
+    padding-top: 20px;
 }
 
 .person-caption span {
     color: #05003899;
-    font-size: 18px;
+    font-size: 15px;
     line-height: 24px;
 }
 
